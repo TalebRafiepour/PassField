@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PasswordTextField">
+        <attr name="showDrawable" format="reference"/>
+        <attr name="hideDrawable" format="reference"/>
+        <attr name="fontAssetSrc" format="string|reference"/>
+        <attr name="drawableTintCompat" format="color|reference"/>
+    </declare-styleable>
+</resources>
