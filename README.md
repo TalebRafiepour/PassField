@@ -24,6 +24,8 @@ dependencies {
 	}
 ```
 
+### sample
+
 ```
 <com.taleb.passfield.PasswordTextField
             style="@style/Input"
